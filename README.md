@@ -1,9 +1,16 @@
 # react-fastapi
 
+## How to Create a FastAPI & React Project - Python Backend + React Frontend
+
+**YouTube**: https://www.youtube.com/watch?v=aSdVU9-SxH4
+
+**GitHub**: https://github.com/techwithtim/FastAPI-React-Integration
+
+**Local setup**:
 - Install PyCharm
 - Create new project using FastAPI
 
-## Backend
+## Python Backend
 
 ### requirements.txt
 ```shell
@@ -24,7 +31,9 @@ Cross-Origin Resource Sharing (CORS) prohibits unauthorized websites, endpoints,
 1. PyCharm HTTP Client
 2. Swagger http://localhost:8000/docs
 
-## Frontend
+## React Frontend
+
+http://localhost:5173
 
 ```shell
  npm create vite@latest frontend --template react
