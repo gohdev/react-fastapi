@@ -3,6 +3,8 @@
 - Install PyCharm
 - Create new project using FastAPI
 
+## Backend
+
 ### requirements.txt
 ```shell
 cd backend
@@ -21,3 +23,13 @@ Cross-Origin Resource Sharing (CORS) prohibits unauthorized websites, endpoints,
 
 1. PyCharm HTTP Client
 2. Swagger http://localhost:8000/docs
+
+## Frontend
+
+```shell
+ npm create vite@latest frontend --template react
+ 
+ cd frontend
+ npm install
+ npm install axios
+```
